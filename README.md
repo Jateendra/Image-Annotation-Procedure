@@ -1,7 +1,5 @@
 # Image-Annotation-Procedure
 
-How Annotation works
-=======================================
 0 . Pre-requisites . From URL : https://tzutalin.github.io/labelImg/
 
 	 - download last file : Windows_v1.8.0
